@@ -6,7 +6,7 @@
 </head>
 <body>
 	<p> My First Git </p>
-	<p> Mao ni ako gi change diri jay </p>
+	<p> i changed my classmate's repo</p>
 </body>
 <script type="text/javascript" href="assets/js/js.js"></script>
 </html>
